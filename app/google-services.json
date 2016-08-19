@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860751777868",
+    "firebase_url": "https://szalkoczat.firebaseio.com",
+    "project_id": "szalkoczat",
+    "storage_bucket": "szalkoczat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860751777868:android:ee26d1dc925ba68a",
+        "android_client_info": {
+          "package_name": "com.mszalek.szalkoczat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860751777868-u96kuj4ni0abj2nak1sb3562o5kt9b6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mszalek.szalkoczat",
+            "certificate_hash": "B706EDE5B138AC48F32C35564E55FC6AE3F7824F"
+          }
+        },
+        {
+          "client_id": "860751777868-915v6nd9h51a597d7q06maccg2u664kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohwRZJFe03_iSxQBOUWZ0avxVT9pdJLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860751777868-915v6nd9h51a597d7q06maccg2u664kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
