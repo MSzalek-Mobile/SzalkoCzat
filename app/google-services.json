@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "860751777868-u96kuj4ni0abj2nak1sb3562o5kt9b6b.apps.googleusercontent.com",
+          "client_id": "860751777868-stv7db73ebl39rbta8at28jn0jlg7m42.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.mszalek.szalkoczat",
-            "certificate_hash": "B706EDE5B138AC48F32C35564E55FC6AE3F7824F"
+            "certificate_hash": "4cfcaae693f041e62c51224b17ff5920ca45db7c"
           }
         },
         {
